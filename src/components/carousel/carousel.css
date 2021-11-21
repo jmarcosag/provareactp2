@@ -1,0 +1,12 @@
+.slide {
+    min-height: 20vh;
+    max-height: 50vh;
+  }
+
+#titulo-carousel {
+  color: black;
+}
+
+#subtitulo-carousel {
+  color: black;
+}
